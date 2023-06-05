@@ -17,6 +17,6 @@ CUSTOM_THUMBNAIL_U, CUSTOM_THUMBNAIL_C = [], []                              # L
 
 class dataBASE(object):
     
-    MONGODB_URI = os.environ.get("MONGODB_URI", False)                       # mongoDB Url (Optional)
+    MONGODB_URI = "mongodb+srv://Bala7a19871:Ibntaymya1.@cluster0.5mtsc.mongodb.net/?retryWrites=true&w=majority"                      # mongoDB Url (Optional)
 
                                                                              # Telegram: @nabilanavab
